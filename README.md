@@ -36,8 +36,7 @@ To execute this script, follow these steps:
     ```bash
     python app.py
     ```
-    Replace `app.py` with the actual name of the Python file.
-
+    
 ## Purpose of the Code
 
 The primary purpose of this code is to demonstrate a multi-modal AI interaction system [1]. It showcases how different AI models and APIs can be integrated to achieve tasks involving speech, language, and vision [2, 4, 9]. Specifically, it aims to provide a user-friendly interface for:
