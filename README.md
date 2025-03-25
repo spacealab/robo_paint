@@ -34,9 +34,9 @@ To execute this script, follow these steps:
     You can set them directly in the script by replacing the placeholder strings with your actual API keys [1].
 3.  **Run the Script:** Execute the Python script from your terminal:
     ```bash
-    python your_script_name.py
+    python app.py
     ```
-    Replace `your_script_name.py` with the actual name of the Python file.
+    Replace `app.py` with the actual name of the Python file.
 
 ## Purpose of the Code
 
